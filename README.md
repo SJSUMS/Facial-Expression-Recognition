@@ -2,8 +2,8 @@
 #### Team 1: Mavis Wang, Xiaocen Xie, Coco Yu, Yan Tang, Zuojun Zheng
 ## Facial Expression Recognition Classification on FER2013
 
-|Tasks         | Intro                           | Data Preparation | Data Preprocing | Model 1 | Model 2 | Model 3 | Discussion |
-|:------------ | :------------------------------ | :---------- | :-------------- | :------ | :---------- | :-------- | :---------|
-|Presentation  | All |All | All | All | All | All | All |
-|Project       | All |All | All | All | All | All | All |
-|IEEE Paper    | All |All | All | All | All | All | All |
+|Tasks         | Intro                           | Data Collection | Data Preparation | Modeling | ResNet50-V2 | mini VGG| Ensembling | Conclusion |
+|:------------ | :------------------------------ | :---------- | :-------------- | :------ | :---------- | :-------- | :---------|:---------|
+|Presentation  | Xiaocen Xie |Xiaocen Xie | Zuojun Zheng | --> | Zuojun Zheng | Yan Tang | Mavis Wang | Coco Yu |
+|Project       | Xiaocen Xie | Zuojun Zheng | Mavis Wang, Zuojun Zheng | --> | Zuojun Zheng | Yan Tang | Mavis Wang | Coco Yu |
+|IEEE Paper    | Xiaocen Xie | Yan Tang | Mavis Wang, Zuojun Zheng | All | Zuojun Zheng | Yan Tang | Mavis Wang | Coco Yu |
