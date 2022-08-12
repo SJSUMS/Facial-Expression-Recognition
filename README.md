@@ -17,6 +17,7 @@ Labels:
 ### Models
 - [x] ResNet50V2 @ Zuo-jung Zheng
 - [x] Mini-VGG @ Yan Tang
+- [x] Simple CNN @ Mavis Wang
 - [x] Ensemble @ Mavis Wang
 
 ### Results [Slide](https://github.com/SJSUMS/Facial-Expression-Recognition/blob/main/T2_Facial_Expression%20Recognition_Results.pdf)
